@@ -1,4 +1,4 @@
-This project has been created as part of the 42 curriculum by yaalmoui
+*This project has been created as part of the 42 curriculum by yahiaAlmouie*
 
 Description:
 A custom C library implementing standard C library functions and additional functions that are not part of the library.
